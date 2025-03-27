@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj": {}
+    "C:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj": {
+    "C:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj",
+        "projectUniqueName": "C:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj",
         "projectName": "Projekt 1",
-        "projectPath": "c:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj",
+        "projectPath": "C:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\Projekt 1.csproj",
         "packagesPath": "C:\\Users\\Sador.tilahun\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\obj\\",
+        "outputPath": "C:\\Users\\Sador.tilahun\\Documents\\prog1\\Projekt 1\\Projekt 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sador.tilahun\\AppData\\Roaming\\NuGet\\NuGet.Config"

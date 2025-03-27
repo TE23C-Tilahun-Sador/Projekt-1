@@ -20,3 +20,5 @@ c:\Users\Sador.tilahun\Documents\prog1\Projekt 1\Projekt 1\obj\Debug\net8.0\refi
 c:\Users\Sador.tilahun\Documents\prog1\Projekt 1\Projekt 1\obj\Debug\net8.0\Projekt 1.pdb
 c:\Users\Sador.tilahun\Documents\prog1\Projekt 1\Projekt 1\obj\Debug\net8.0\Projekt 1.genruntimeconfig.cache
 c:\Users\Sador.tilahun\Documents\prog1\Projekt 1\Projekt 1\obj\Debug\net8.0\ref\Projekt 1.dll
+C:\Users\Sador.tilahun\Documents\prog1\Projekt 1\Projekt 1\obj\Debug\net8.0\Projekt 1.sourcelink.json
+C:\Users\Sador.tilahun\Documents\prog1\Projekt 1\Projekt 1\bin\Debug\net8.0\pxArt.png
